@@ -1,0 +1,28 @@
+{
+  "author": "Matthew Oduamafu",
+  "classifications": [
+    "Web",
+    "Class Library"
+  ],
+  "identity": "MatthewOduamafu.Template.ClassLibrary.NET8",
+  "name": "Minimal API Class Library (.NET 8.0)",
+  "shortName": "minimal-api-class-library",
+  "description": "A minimal API class library for .NET 8.0",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "Template.ClassLibrary.NET8",
+  "preferNameDirectory": true,
+  "includeLaunchSettings": false,
+  "guids": [
+    "93475DCE-512A-4A1B-9B4B-72B1E66A95C8",
+    "5588B279-2E9C-4BBE-888E-7A4A79AC7B82",
+    "C9AAA5CB-7849-43F5-BD3C-E0B3A1C10188"
+  ],
+  "primaryOutputs": [
+    {
+      "path": "Template.ClassLibrary.NET8.csproj"
+    }
+  ]
+}
